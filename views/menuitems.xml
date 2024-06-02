@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <menuitem id="menu_hotel_booking_app" name="Hotel Bookings">
+        <menuitem id="menu_hotel_booking" name="Bookings" action="action_hotel_booking" />
+        <menuitem id="menu_hotel_room" name="Rooms" action="action_hotel_room" />
+        <menuitem id="menu_hotel_customer" name="Customers" action="action_hotel_customer" />
+
+    </menuitem>
+
+
+</odoo>
